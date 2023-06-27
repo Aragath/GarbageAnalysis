@@ -1,5 +1,13 @@
 # 垃圾數據分析
 
+
+https://github.com/Aragath/GarbageAnalysis/assets/54591654/82802847-de9e-4d7c-a766-6f3a2b485077
+
+
+https://github.com/Aragath/GarbageAnalysis/assets/54591654/0c0a6545-6867-4ae5-978c-ca693fd6db6f
+
+
+
 ## Target
 使用PLOTLY和DASH將111年臺南市資源回收成果統計做可視化
 
