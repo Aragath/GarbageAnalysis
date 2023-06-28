@@ -19,3 +19,10 @@ Obtained from the [Tainan City Resource Recycling Statistics (Year 111)](https:/
 The above page provides statistics on the weight of different types of garbage and their recycling methods in each month for 2022, a total of 12 months, 23 types of garbage, and 3 recycling methods:
 * Types: paper, paper containers, aluminum foil bags, aluminum containers, iron containers, other metal products, plastic containers, foamed plastics for packaging, other plastic products, tires, glass containers, other glass products, lighting sources, dry batteries, lead Batteries, home appliances, information items, CDs, mobile phones (including chargers), pesticide containers and special environment drug containers, used clothing, cooking oil, and others
 * Recycling method: environmental protection units clear and transport by themselves, environmental protection units entrust clearing and transport, public and private premises clean and transport by themselves or entrusted
+
+## Contents：
+### Garbage Analysis - Static
+Since the results using PLOTLY cannot be presented on Github, the chart is converted from interactive to static for easy reading. To view the DASH part, a Flask app is needed, you could download the entire notebook and run it on your local machine.
+
+### Garbage Analysis
+The main notebook, you could copy the url of this notebook and paste it on [nbviewer](https://nbviewer.org/) to display it, this makes the PLOTLY figures interactable. Also, to view the DASH part, a Flask app is needed, you could download the entire notebook and run it on your local machine.
